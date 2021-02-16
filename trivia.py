@@ -12,7 +12,7 @@ import asyncio
 from discord_handler.helper import yes_no
 
 
-TOKEN = "NzkzODk1NTI1MTMyNjY0ODQz.X-y60w.IIDyl6nPYkp6rN7gAw-DPE6lWJs"
+TOKEN = "TOKEN"
 
 client = discord.Client()
 
